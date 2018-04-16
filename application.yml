@@ -1,5 +1,7 @@
 ---
-words: fall
+spring:
+  profiles: subject
+words: I,You,He,She,It
 ---
 eureka:
   client:
